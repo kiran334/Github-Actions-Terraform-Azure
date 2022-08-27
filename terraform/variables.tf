@@ -1,11 +1,11 @@
 variable "rgname" {
   description = "Resource Group Name"
-  default     = "devtfrg1"
+  default     = "devtfrg12"
   type        = string
 }
 variable "location" {
   description = "Azure location"
-  default     = "East US2"
+  default     = "East US 2"
   type        = string
 }
 variable "sname" {
