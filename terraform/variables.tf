@@ -1,6 +1,6 @@
 variable "rgname" {
   description = "Resource Group Name"
-  default     = "devtfrg12"
+  default     = "terraform-rg"
   type        = string
 }
 variable "location" {
