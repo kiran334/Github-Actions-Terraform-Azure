@@ -1,3 +1,3 @@
-rgname   = "terraform-rg-sai-today"
+rgname   = "terraform-rg-sai"
 location = "East US2"
-sname    = "myterraformsadevtoday"
+sname    = "myterraformsadev1"
