@@ -1,6 +1,6 @@
 variable "rgname" {
   description = "Resource Group Name"
-  default     = "terraform-rg-sai-08282022"
+  default     = "terraform-rg-sai"
   type        = string
 }
 variable "location" {
